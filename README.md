@@ -4,4 +4,4 @@ Tools developed during CTF
 ## memory_dump.js
 OS: linux</br>
 Language: node.js</br>
-Description: Dump memory of a process
+Description: Dump memory of a process using node.js
