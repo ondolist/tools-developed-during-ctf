@@ -1,3 +1,5 @@
+// memory dump using node.js
+
 var fs=require("fs");
 
 function print_memory_of_pid(pid, only_writable=true)
